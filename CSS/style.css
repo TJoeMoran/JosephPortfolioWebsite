@@ -1,9 +1,9 @@
 /*style.css*/
 button{
-    background-color: navy;
+    background-color: rgb(7, 159, 134);
     color:white;
     height: 30px;
-    border-radius: 5px;
+    border-radius: 20px;
 }
 
 button:hover{
